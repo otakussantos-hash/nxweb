@@ -1,0 +1,7 @@
+build/
+*.nro
+*.elf
+*.nacp
+*.map
+third_party/litehtml/
+romfs/cacert.pem
